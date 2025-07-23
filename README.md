@@ -16,6 +16,6 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vianarafaa&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vianarafaa&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianarafaa&theme=radical)](https://github.com/vianarafaa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianarafaa&theme=merko)](https://github.com/vianarafaa/github-readme-stats)
